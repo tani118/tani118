@@ -30,6 +30,17 @@
 <td>Real-time multimodal emotion detection system</td>
 <td>—</td>
 </tr>
+<tr>
+<td><b>Redis</b></td>
+<td>Implemented Redis from sratch in C</td>
+<td><a href="https://www.google.com"></a>Demo</td>
+</tr>
+<tr>
+<td><b>Facebook Agent Dashboard</b></td>
+<td>Built a unified interface for businesses to manage customer queries</td>
+<td><a href="https://www.loom.com/share/5548fd67aba2476eb7c0fd5013d89f8e?sid=650bd38d-c7ca-4881-a5a1-54233c667e4b"></a>Demo</td>
+</tr>
+
 </table>
 
 <br>
